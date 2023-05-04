@@ -45,7 +45,7 @@
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
                 <li><a href="#section1">About Me</a></li>
-                <li><a href="#section2">What I’m good at</a></li>
+                <li><a href="#section2">Experience</a></li>
                 <li><a href="#section3">My Work</a></li>
                 <li><a href="#section4">Contact Me</a></li>
               </ul>
@@ -97,7 +97,9 @@ career in manufacturing as a CNC operator and or programmer.</span
             <div class="row">
               <div class="col-md-6">
                 <div class="left-image">
-                  <img src="assets/images/left-image.jpg" alt="" />
+                  <img src="assets/images/vinu.jpg" alt="" />
+                  <span> &nbsp; </span>
+                  <img src="https://th.bing.com/th/id/R.a326c1cc588988fd853865a8ed989f68?rik=rYwN0ZEdgxQlYw&riu=http%3a%2f%2fwww.math.purdue.edu%2f%7ejeb%2flogo.jpeg&ehk=05Qby%2fL7SF3ThoeITQGwYH7I2%2fylwZBY8wRPqIaHCsA%3d&risl=&pid=ImgRaw&r=0" alt="" />
                 </div>
               </div>
               <div class="col-md-6">
@@ -150,20 +152,31 @@ career in manufacturing as a CNC operator and or programmer.</span
                                               </p>
                                               <p>
                   <h1 style="font-weight: bold; font-size:18px;"> Computer Programming </h1> 
-                  CSS,HTML,JS <br/>
-              Python <br/> C++,C#
-          <br/> ruby, PHP, Rust                                  
+                  CSS,&nbsp;HTML,&nbsp;JS <br/>
+              Python <br/> C++,&nbsp;C#
+          <br/> ruby,&nbsp;PHP,&nbsp;Rust                                  
                                               
                                               </p>
                                                                 <p>
                   <h1 style="font-weight: bold; font-size:18px;"> Computer Software </h1> 
-                   <br/> Fusion 360, Mastercam, Solidworks <br/>Google slides, canva, Powerpoint<br/>
-              GIMP, Photoshop, DaVinci Resolve <br/> Cura, Prusa slicer, Mesh Mixer, Simplify3D <br/>C#
-          <br/> ruby <br/> PHP <br/> Rust                                  
+                  Fusion 360, &nbsp; Mastercam, &nbsp; Solidworks <br/>Google slides,&nbsp; Canva,&nbsp; Powerpoint<br/>
+              GIMP, &nbsp;Photoshop, &nbsp;DaVinci Resolve <br/> Cura,&nbsp; Prusa slicer,&nbsp; Mesh Mixer, &nbsp;Simplify3D 
+                                    
                                               
                                               </p>
+                                                                <p>
+                  <h1 style="font-weight: bold; font-size:18px;"> Machine shop & Manufacturing </h1> 
+                   <br/> 6,4 & 3 jaw chuck operations <br/> Drilling, &nbsp; Reaming,&nbsp;Boring,&nbsp;Counterboring & tapping <br/> Manual Mill & Lathe setup & operation <br/> CNC mill programing(CAM + MDI) & understanding of Gcode <br/> CNC mill setup & operation <br/> Blueprint drawing & Reading <br/>3D printing setup,&nbsp;calibration & operation(FDM+SLA) <br/> Laser Engraving/cutting 
 
-
+                                    
+                                              
+                                              </p>
+                                                               <p>
+                  <h1 style="font-weight: bold; font-size:18px;"> Other </h1> 
+                   <br/> Micro-soldering & Computer Repair <br/> 
+                                    
+                                              
+                                              </p>
                     
                   </p>
 
@@ -171,7 +184,11 @@ career in manufacturing as a CNC operator and or programmer.</span
               </div>
               <div class="col-md-6">
                 <div class="right-image">
-                  <img src="assets/images/right-image.jpg" alt="" />
+                  <img src="assets/images/skills.png" alt="" />
+                  <span> &nbsp;</span>
+                  <img style="background-color:white;"  src="assets/images/JAG.png" alt="" />
+                  <span> &nbsp;</span>
+                  <img style="background-color:white;" src="https://i0.wp.com/prosser.nafcs.k12.in.us/wp-content/uploads/2021/11/Prosser-Logo-1.png?resize=1024%2C368&ssl=1" alt="" />
                 </div>
               </div>
             </div>
@@ -182,7 +199,7 @@ career in manufacturing as a CNC operator and or programmer.</span
       <section class="section my-services" data-section="section2">
         <div class="container">
           <div class="section-heading">
-            <h2>What I’m good at?</h2>
+            <h2>Experience</h2>
             <div class="line-dec"></div>
             <!--
             <span
